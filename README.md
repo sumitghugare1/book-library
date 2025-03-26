@@ -18,7 +18,8 @@ Frontend: HTML, CSS, JavaScript
 API: FreeAPI.app
 
 🎥 Screenshots
-📌 Home Page (Grid View)
+📌 Home Page ![image](https://github.com/user-attachments/assets/50adf6df-70bf-4ca1-87fa-efd74dc1e1a5)
+
 
 📌 Home Page ![image](https://github.com/user-attachments/assets/70a7e5f2-cf1e-4d97-81e0-011809e2c11a)
 
