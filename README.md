@@ -23,9 +23,6 @@ API: FreeAPI.app
 📌 Home Page ![image](https://github.com/user-attachments/assets/70a7e5f2-cf1e-4d97-81e0-011809e2c11a)
 
 
-📌 Book Details Page
-
-(Replace with actual screenshots of your project)
 
 🔗 Live Demo
 🔴 Deployed URL: [Book Library Live](https://book-library-phi-five.vercel.app/)
