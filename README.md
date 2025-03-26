@@ -76,6 +76,6 @@ Feel free to contribute by submitting issues and pull requests.
 📜 License
 This project is open-source and free to use.
 
-🔹 GitHub Repository: Book Library Repo
+🔹 GitHub Repository: https://github.com/sumitghugare1/book-library/tree/main
 🔹 Live Demo: [Book Library Live
 ](https://book-library-phi-five.vercel.app/)
