@@ -20,7 +20,8 @@ API: FreeAPI.app
 🎥 Screenshots
 📌 Home Page (Grid View)
 
-📌 Home Page (List View)
+📌 Home Page ![image](https://github.com/user-attachments/assets/70a7e5f2-cf1e-4d97-81e0-011809e2c11a)
+
 
 📌 Book Details Page
 
